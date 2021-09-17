@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NewsComponentGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NewsComponentGenerator_localhost_NewsComponentGenerator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/NewsComponentGeneratorService/NewsComponentGenerator.asmx</Value>
+    </Setting>
+    <Setting Name="NewsComponentGenerator_NCG_WebRef_NewsComponentGenerator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.91.21.200/NewsComponentGeneratorService/NewsComponentGenerator.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

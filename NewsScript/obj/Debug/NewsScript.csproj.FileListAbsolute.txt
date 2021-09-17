@@ -1,0 +1,9 @@
+C:\_eapple\NewsScript\bin\Debug\NewsScript.exe
+C:\_eapple\NewsScript\bin\Debug\NewsScript.pdb
+C:\_eapple\NewsScript\obj\Debug\ResolveAssemblyReference.cache
+C:\_eapple\NewsScript\obj\Debug\NewsScript.Browsing.resources
+C:\_eapple\NewsScript\obj\Debug\NewsScript.Form1.resources
+C:\_eapple\NewsScript\obj\Debug\NewsScript.Properties.Resources.resources
+C:\_eapple\NewsScript\obj\Debug\NewsScript.csproj.GenerateResource.Cache
+C:\_eapple\NewsScript\obj\Debug\NewsScript.exe
+C:\_eapple\NewsScript\obj\Debug\NewsScript.pdb

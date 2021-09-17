@@ -1,0 +1,9 @@
+C:\_eapple\NewsComponentGenerator\bin\Debug\NewsComponentGenerator.exe.config
+C:\_eapple\NewsComponentGenerator\bin\Debug\NewsComponentGenerator.exe
+C:\_eapple\NewsComponentGenerator\bin\Debug\NewsComponentGenerator.pdb
+C:\_eapple\NewsComponentGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\_eapple\NewsComponentGenerator\obj\Debug\NewsComponentGenerator.Form1.resources
+C:\_eapple\NewsComponentGenerator\obj\Debug\NewsComponentGenerator.Properties.Resources.resources
+C:\_eapple\NewsComponentGenerator\obj\Debug\NewsComponentGenerator.csproj.GenerateResource.Cache
+C:\_eapple\NewsComponentGenerator\obj\Debug\NewsComponentGenerator.exe
+C:\_eapple\NewsComponentGenerator\obj\Debug\NewsComponentGenerator.pdb

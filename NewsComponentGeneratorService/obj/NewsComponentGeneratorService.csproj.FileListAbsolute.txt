@@ -1,0 +1,22 @@
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorService.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorService.pdb
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorLib.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\WebPageFetchLibrary.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\CS Class.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\GAPI.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\WebPageFetchLibrary.pdb
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\CS Class.pdb
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorLib.pdb
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\obj\Debug\NewsComponentGeneratorService.dll
+D:\My Documents\2009_summer\eapple\NewsComponentGeneratorService\obj\Debug\NewsComponentGeneratorService.pdb
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorService.dll
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorService.pdb
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorLib.dll
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\WebPageFetchLibrary.dll
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\NewsComponentGeneratorLib.pdb
+D:\My Documents\_eapple\NewsComponentGeneratorService\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\_eapple\NewsComponentGeneratorService\obj\Debug\NewsComponentGeneratorService.dll
+D:\My Documents\_eapple\NewsComponentGeneratorService\obj\Debug\NewsComponentGeneratorService.pdb
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\TokenLib.dll
+D:\My Documents\_eapple\NewsComponentGeneratorService\bin\TokenLib.pdb

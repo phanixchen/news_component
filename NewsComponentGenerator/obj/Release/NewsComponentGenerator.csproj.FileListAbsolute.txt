@@ -1,0 +1,11 @@
+C:\_eapple\NewsComponentGenerator\bin\Release\NewsComponentGenerator.exe.config
+C:\_eapple\NewsComponentGenerator\bin\Release\NewsComponentGenerator.exe
+C:\_eapple\NewsComponentGenerator\bin\Release\NewsComponentGenerator.XmlSerializers.dll
+C:\_eapple\NewsComponentGenerator\bin\Release\NewsComponentGenerator.pdb
+C:\_eapple\NewsComponentGenerator\obj\Release\ResolveAssemblyReference.cache
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.Form1.resources
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.Properties.Resources.resources
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.csproj.GenerateResource.Cache
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.exe
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.pdb
+C:\_eapple\NewsComponentGenerator\obj\Release\NewsComponentGenerator.XmlSerializers.dll

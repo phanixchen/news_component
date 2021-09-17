@@ -1,0 +1,7 @@
+C:\_eapple\NewsComponentGeneratorLib\bin\Debug\NewsComponentGeneratorLib.dll
+C:\_eapple\NewsComponentGeneratorLib\bin\Debug\NewsComponentGeneratorLib.pdb
+C:\_eapple\NewsComponentGeneratorLib\bin\Debug\TokenLib.dll
+C:\_eapple\NewsComponentGeneratorLib\bin\Debug\TokenLib.pdb
+C:\_eapple\NewsComponentGeneratorLib\obj\Debug\ResolveAssemblyReference.cache
+C:\_eapple\NewsComponentGeneratorLib\obj\Debug\NewsComponentGeneratorLib.dll
+C:\_eapple\NewsComponentGeneratorLib\obj\Debug\NewsComponentGeneratorLib.pdb

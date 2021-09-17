@@ -1,0 +1,13 @@
+C:\_eapple\NewsComponentMining\bin\Debug\NewsComponentMining.exe
+C:\_eapple\NewsComponentMining\bin\Debug\NewsComponentMining.pdb
+C:\_eapple\NewsComponentMining\bin\Debug\TokenLib.dll
+C:\_eapple\NewsComponentMining\bin\Debug\WebPageFetchLibrary.dll
+C:\_eapple\NewsComponentMining\bin\Debug\TokenLib.pdb
+C:\_eapple\NewsComponentMining\obj\Debug\ResolveAssemblyReference.cache
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.ExportArff.resources
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.Form1.resources
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.ProcessNewsData.resources
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.Properties.Resources.resources
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.csproj.GenerateResource.Cache
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.exe
+C:\_eapple\NewsComponentMining\obj\Debug\NewsComponentMining.pdb

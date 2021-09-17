@@ -1,0 +1,64 @@
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\NewsScript.exe
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\NewsScript.pdb
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.Form1.resources
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.Properties.Resources.resources
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.csproj.GenerateResource.Cache
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.exe
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.pdb
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\CS Class.dll
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\CS Class.pdb
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\WebPageFetchLibrary.dll
+D:\My Documents\2009_summer\eapple\NewsScript\bin\Debug\WebPageFetchLibrary.pdb
+D:\My Documents\2009_summer\eapple\NewsScript\obj\Debug\NewsScript.Browsing.resources
+D:\My Documents\_eapple\NewsScript\bin\Debug\NewsScript.exe
+D:\My Documents\_eapple\NewsScript\bin\Debug\NewsScript.pdb
+D:\My Documents\_eapple\NewsScript\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.Browsing.resources
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.Form1.resources
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.Properties.Resources.resources
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.csproj.GenerateResource.Cache
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.exe
+D:\My Documents\_eapple\NewsScript\obj\Debug\NewsScript.pdb
+D:\_eapple\NewsScript\bin\Debug\NewsScript.exe
+D:\_eapple\NewsScript\bin\Debug\NewsScript.pdb
+D:\_eapple\NewsScript\obj\Debug\ResolveAssemblyReference.cache
+D:\_eapple\NewsScript\obj\Debug\NewsScript.Browsing.resources
+D:\_eapple\NewsScript\obj\Debug\NewsScript.Form1.resources
+D:\_eapple\NewsScript\obj\Debug\NewsScript.Properties.Resources.resources
+D:\_eapple\NewsScript\obj\Debug\NewsScript.csproj.GenerateResource.Cache
+D:\_eapple\NewsScript\obj\Debug\NewsScript.exe
+D:\_eapple\NewsScript\obj\Debug\NewsScript.pdb
+D:\_eapple\NewsScript\obj\Release\ResolveAssemblyReference.cache
+D:\_eapple\NewsScript\obj\Release\NewsScript.Browsing.resources
+D:\_eapple\NewsScript\obj\Release\NewsScript.Form1.resources
+D:\_eapple\NewsScript\obj\Release\NewsScript.Properties.Resources.resources
+D:\_eapple\NewsScript\obj\Release\NewsScript.csproj.GenerateResource.Cache
+D:\_eapple\NewsScript\bin\Release\NewsScript.exe
+D:\_eapple\NewsScript\bin\Release\NewsScript.pdb
+D:\_eapple\NewsScript\bin\Release\CS Class.dll
+D:\_eapple\NewsScript\bin\Release\WebPageFetchLibrary.dll
+D:\_eapple\NewsScript\obj\Release\NewsScript.exe
+D:\_eapple\NewsScript\obj\Release\NewsScript.pdb
+D:\sychen\_D\_eapple\NewsScript\bin\Release\NewsScript.exe
+D:\sychen\_D\_eapple\NewsScript\bin\Release\NewsScript.pdb
+D:\sychen\_D\_eapple\NewsScript\bin\Release\CS Class.dll
+D:\sychen\_D\_eapple\NewsScript\bin\Release\WebPageFetchLibrary.dll
+D:\sychen\_D\_eapple\NewsScript\obj\Release\ResolveAssemblyReference.cache
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.Browsing.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.Form1.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.Properties.Resources.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.csproj.GenerateResource.Cache
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.exe
+D:\sychen\_D\_eapple\NewsScript\obj\Release\NewsScript.pdb
+D:\sychen\_D\_eapple\NewsScript\bin\Debug\NewsScript.exe
+D:\sychen\_D\_eapple\NewsScript\bin\Debug\NewsScript.pdb
+D:\sychen\_D\_eapple\NewsScript\bin\Debug\CS Class.dll
+D:\sychen\_D\_eapple\NewsScript\bin\Debug\WebPageFetchLibrary.dll
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\ResolveAssemblyReference.cache
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.Browsing.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.Form1.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.Properties.Resources.resources
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.csproj.GenerateResource.Cache
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.exe
+D:\sychen\_D\_eapple\NewsScript\obj\Debug\NewsScript.pdb
